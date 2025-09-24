@@ -16,3 +16,7 @@ TECNOLOGIAS IMPLEMENTADAS
 - JavaScript (JS)
 - HTML5
 - CSS
+
+FORMATO
+<img width="1366" height="599" alt="Captura de pantalla 2025-09-23 203424" src="https://github.com/user-attachments/assets/6568e374-5ec2-48aa-9ac7-0a426e674d28" />
+
