@@ -21,6 +21,7 @@ TECNOLOGIAS IMPLEMENTADAS
 - CSS
 
 FORMATO
+
 <img width="1361" height="631" alt="Captura de pantalla 2025-09-23 203944" src="https://github.com/user-attachments/assets/042ff210-ba7a-4a53-9195-0b7384ca2bd9" />
 
 
