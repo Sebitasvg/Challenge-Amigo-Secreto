@@ -2,11 +2,13 @@
 Primer challenge amigo secreto en Alura Latam.
 
 FUNCIÓN
+
 Mediante sorteo se asigna un amigo secreto a una lista de nombres ingresados en el juego.
 
 CARACTERISTICAS
 
 Agregar Nombres: Se puede ingresar un lista de nombre que vayan a participar en el sorteo de amigo secreto.
+
 Validación:
 - No es permitido tener espacios vacios
 - Se permite el ingreso de nombres, pero no de números.
